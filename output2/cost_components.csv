@@ -1,0 +1,16 @@
+component,npv_cost
+TotalGenFixedCosts,326061036169.8528
+EmissionsCosts,85292276808.79518
+LocalTDFixedCosts,123279103057.1646
+TxFixedCapitalCosts,44954469998.94202
+TxFixedOMCosts,13040206422.13186
+StorageEnergyFixedCost,5626379704.387486
+StrFixedOMCosts,776347052.2572318
+TotalStaFixedCosts,231047124.9504851
+VariableCost,-1.568741816387052e-07
+GenVariableOMCostsInTP,28233404413.74672
+Total_StartupGenCapacity_OM_Costs,0
+FuelCostsPerTP,286314878338.2916
+StrVariableOMCostsInTP,0
+StaVariableOMCosts,18917161.15555282
+SpinReserveCostsInTP,6697478548.751825
